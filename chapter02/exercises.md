@@ -1,4 +1,4 @@
-# Chapter 2 Solutions
+# Chapter 2
 
 ## Comprehension Check
 

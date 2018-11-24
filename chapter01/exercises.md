@@ -1,4 +1,4 @@
-# Chapter 1 Solutions
+# Chapter 1
 
 ## Intermission: Equivalence Exercises
 
